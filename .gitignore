@@ -1,0 +1,26 @@
+# Git Ignore File
+
+# Ignore Data
+/Data/*
+
+# Python Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# R Files
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user/
+/*_cache/
+/cache/
+*.utf8.md
+*.knit.md
