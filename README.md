@@ -138,13 +138,19 @@ git push origin newbranch
 To view the remotes:
 
 ```
-git branch -vvt
+git branch -r
 ```
 
 To track a remote branch:
 
 ```
 git checkout --track origin/newbranch
+```
+
+To delete a remote branch:
+
+```
+git push origin --delete newbranch
 ```
 
 --------------------------------------------------------------------------------
