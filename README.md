@@ -123,6 +123,8 @@ To delete a branch:
 git branch -d new-branch-name
 ```
 
+--------------------------------------------------------------------------------
+
 ## Merge Conflicts
 
 When a merge conflict occurs, look at the output to determine which file(s) encountered a conflict:
