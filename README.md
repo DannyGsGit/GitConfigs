@@ -118,7 +118,7 @@ After making changes, merge them back into another branch (e.g. master):
 
 ```
 git checkout master
-git merge new-branch-name
+git merge new-branch-name -m "Merge message"
 ```
 
 To delete a branch:
