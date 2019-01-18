@@ -2,6 +2,8 @@
 
 _Prepared By: Danny Godbout_
 
+_Date: 18 January 2019_
+
 A repository of useful Git commands
 
 ## Aliases
