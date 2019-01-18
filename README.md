@@ -133,4 +133,4 @@ Make changes to the conflicted files manually, the use _git add_ to stage the re
 
 --------------------------------------------------------------------------------
 
-The End.
+The End. Not really.
