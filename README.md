@@ -88,6 +88,12 @@ git push
 
 ### Branching
 
+To see which branch you're in:
+
+```
+git branch
+```
+
 To create a branch:
 
 ```
@@ -98,4 +104,17 @@ To move HEAD to the new branch:
 
 ```
 git checkout new-branch-name
+```
+
+After making changes, merge them back into another branch (e.g. master):
+
+```
+git checkout master
+git merge new-branch-name
+```
+
+To delete a branch:
+
+```
+git branch -d new-branch-name
 ```
