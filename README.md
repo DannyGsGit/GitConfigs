@@ -127,6 +127,20 @@ To delete a branch:
 git branch -d new-branch-name
 ```
 
+### Remote Branches
+
+To create the remote branch, push to a new remote:
+
+```
+git push origin newbranch
+```
+
+To view the remotes:
+
+```
+git branch -vvt
+```
+
 --------------------------------------------------------------------------------
 
 ## Merge Conflicts
