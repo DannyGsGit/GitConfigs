@@ -141,6 +141,12 @@ To view the remotes:
 git branch -vvt
 ```
 
+To track a remote branch:
+
+```
+git checkout --track origin/newbranch
+```
+
 --------------------------------------------------------------------------------
 
 ## Merge Conflicts
