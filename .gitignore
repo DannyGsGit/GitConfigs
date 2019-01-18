@@ -1,7 +1,7 @@
 # Git Ignore File
 
 # Ignore Data
-/*/Data/*
+**/Data/*
 
 # Python Files
 __pycache__/
