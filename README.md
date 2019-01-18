@@ -26,23 +26,46 @@ To view the status of any file changes and staging, use:
 git status
 ```
 
+### Tagging
+
+To add a tag at some point in your workflow, use:
+
+```
+git tag "Label"
+```
+
+With an annotation:
+
+```
+git tag -a "Label" -m "My message"
+```
+
+To push the tags to remote:
+
+```
+git push --tags
+```
+
 ### Staging
 
 To stage all files, use:
 
 ```
+
 git add -A
 ```
 
 With the unstage alias defined above, we can unstage specific files with:
 
 ```
+
 git unstage example.txt
 ```
 
 Or unstage all with:
 
 ```
+
 git unstage .
 ```
 
@@ -51,9 +74,16 @@ git unstage .
 Store a commit with:
 
 ```
+
 git commit -m "My commit message"
 ```
 
 ### Push
+
+To push the commit(s) to remote:
+
+```
+git push
+```
 
 ### Change Branch
