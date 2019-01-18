@@ -4,7 +4,7 @@ _Prepared By: Danny Godbout_
 
 _Date: January 2019_
 
-A repository of useful Git commands
+A repository of useful Git commands.
 
 --------------------------------------------------------------------------------
 
