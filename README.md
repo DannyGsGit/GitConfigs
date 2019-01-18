@@ -1,5 +1,7 @@
 # GitConfigs
 
+_Prepared By: Danny Godbout_
+
 A repository of useful Git commands
 
 ## Aliases
