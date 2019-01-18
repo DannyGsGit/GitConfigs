@@ -10,7 +10,7 @@ A repository of useful Git commands.
 
 ## Aliases
 
-**graph**: List of commits
+**graph**: List of commits:
 
 ```
 git config --global alias.graph 'log --all --graph --oneline --branches'
