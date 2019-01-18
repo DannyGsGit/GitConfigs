@@ -130,7 +130,3 @@ git status
 ```
 
 Make changes to the conflicted files manually, the use _git add_ to stage the resolution.
-
---------------------------------------------------------------------------------
-
-The End. Not really.
