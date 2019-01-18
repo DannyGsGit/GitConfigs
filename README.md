@@ -6,6 +6,8 @@ _Date: January 2019_
 
 A repository of useful Git commands
 
+--------------------------------------------------------------------------------
+
 ## Aliases
 
 The following alias will display a history of your commits:
@@ -19,6 +21,8 @@ The following alias can be used to unstage specific files:
 ```
 git config --global alias.unstage 'reset --'
 ```
+
+--------------------------------------------------------------------------------
 
 ## Workflow
 
