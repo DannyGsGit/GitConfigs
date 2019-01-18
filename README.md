@@ -86,4 +86,16 @@ To push the commit(s) to remote:
 git push
 ```
 
-### Change Branch
+### Branching
+
+To create a branch:
+
+```
+git branch new-branch-name
+```
+
+To move HEAD to the new branch:
+
+```
+git checkout new-branch-name
+```
