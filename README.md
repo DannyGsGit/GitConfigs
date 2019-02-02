@@ -192,3 +192,17 @@ git status
 Make changes to the conflicted files manually, the use _git add_ to stage the resolution.
 
 --------------------------------------------------------------------------------
+
+## Revert to a Previous Commit
+
+Reverting branch back to a previous Commit in time based on the hash.
+
+```
+
+git revert --no-commit <hash>..HEAD
+git commit
+```
+
+Make changes to the conflicted files manually, the use _git add_ to stage the resolution.
+
+--------------------------------------------------------------------------------
